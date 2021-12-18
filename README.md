@@ -14,7 +14,7 @@ For the begin I will do two basic Node.Js APIs and connect each to a different d
 
 <img src="https://github.com/pjonatansr/personal-roadmap/blob/453af0ba059c625c4efa744e7e996f392a2c2e2a/images/draft.png?raw=true" width=50% height=50%>
 
-Btw, for now I'll just easy, sep-by-step, the first focus will on the first API which is connect to a Mongo DB.
+Btw, for now I'll just easy, step-by-step, the first focus will be on the first API which is connect to a Mongo DB.
 
 ---
 ![image](https://img.shields.io/twitter/follow/pjonatansr?color=green&style=flat-square)
