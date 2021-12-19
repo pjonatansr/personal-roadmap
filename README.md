@@ -12,7 +12,7 @@ I will publish here all my progress, starting from a basic and rustic code for i
 ## Current Learning
 For the begin I will do two basic Node.Js APIs and connect each to a different database with the intention of reaching the architecture below then I will decide which message broker I want to focus on and then I will start the next.js client development.
 
-<img src="https://github.com/pjonatansr/personal-roadmap/blob/453af0ba059c625c4efa744e7e996f392a2c2e2a/images/draft.png?raw=true" width=50% height=50%>
+<img src="https://github.com/pjonatansr/personal-roadmap/blob/main/images/draft.png?raw=true" width=50% height=50%>
 
 Btw, for now I'll just easy, step-by-step, the first focus will be on the first API which is connect to a Mongo DB.
 
