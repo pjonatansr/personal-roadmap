@@ -1,0 +1,3 @@
+[submodule "article-writer-api"]
+	path = article-writer-api
+	url = https://github.com/pjonatansr/article-writer-api
