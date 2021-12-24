@@ -29,8 +29,8 @@ I did choose to begin a free course from freecodecamp.com, named "[Back End Deve
 
 - [x] [MongoDB and Mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose): [boilerplate-mongomongoose](https://github.com/pjonatansr/boilerplate-mongomongoose)
 
-- [ ] [Timestamp Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice): [boilerplate-project-timestamp](https://github.com/pjonatansr/boilerplate-project-timestamp)
-- [ ] [Request Header Parser Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice)
+- [x] [Timestamp Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice): [boilerplate-project-timestamp](https://github.com/pjonatansr/boilerplate-project-timestamp)
+- [ ] [Request Header Parser Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice): [boilerplate-project-headerparser](https://github.com/pjonatansr/boilerplate-project-headerparser) *(Doing)*
 - [ ] [Url Shortner Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice)
 - [ ] [Exercise Tracker](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker)
 - [ ] [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice)
