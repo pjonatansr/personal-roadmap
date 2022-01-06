@@ -33,7 +33,7 @@ I did choose to begin a free course from freecodecamp.com, named "[Back End Deve
 - [x] [Request Header Parser Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice): [boilerplate-project-headerparser](https://github.com/pjonatansr/boilerplate-project-headerparser)
 - [x] [Url Shortner Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice): [boilerplate-project-urlshortener](https://github.com/pjonatansr/boilerplate-project-urlshortener)
 - [x] [Exercise Tracker](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker): [boilerplate-project-exercisetracker](https://github.com/pjonatansr/boilerplate-project-exercisetracker): [boilerplate-project-exercisetracker](https://github.com/pjonatansr/boilerplate-project-exercisetracker) *Clean Architecture Based*
-- [ ] [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice): [boilerplate-project-filemetadata](https://github.com/pjonatansr/boilerplate-project-filemetadata) *(Doing)*
+- [ ] [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice): [boilerplate-project-filemetadata](https://github.com/pjonatansr/boilerplate-project-filemetadata)
 
 ---
 ![image](https://img.shields.io/twitter/follow/pjonatansr?color=green&style=flat-square)
