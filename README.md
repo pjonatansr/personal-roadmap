@@ -12,13 +12,18 @@ Every time that I want to study a new content, being about soft or hard skills, 
 
 I will publish here all my progress, starting from a basic and rustic code to improve over 2022, according to my studies.
 
-## Current Learning
-Blockchain course on [Udemy](https://www.udemy.com/course/formacao-engenheiro-de-blockchain/). Code [here](https://github.com/pjonatansr/blockchain_course).
+## Current Learning - Blockchain
+##### Started: Jan 04 2022 - Doing
+---
+Status | Course | Link | Repository
+-------|--------|------|--------
+Doing  | Blockchain Course | [Udemy](https://www.udemy.com/course/formacao-engenheiro-de-blockchain/) |  [blockchain_course](https://github.com/pjonatansr/blockchain_course)
 
-## Previous Learning
-Before the 1st step with the Article-Writer-API I wanted to remember the basics about NodeJS, MongoDB, and Express because had some time since the last time that I used to programming in NodeJS.
+## Previous Learning - NodeJs, MongoDB, Express
+##### Started: Dec 20 2021 - Ended: Jan 06 2022
+Before 2022, I wanted to remember the basics about NodeJS, MongoDB, and Express that I think that will be a good start for logging my daily learning.
 
-I did choose to begin a free course from freecodecamp.com, named "[Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)" and started my learning with [Replit](http://replit.com/). Here are the repositories that I forked and solved the three first modules, and now I need to work only in the microservices:
+I did choose to begin a free course from freecodecamp.com, named "[Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)" and started my learning with [Replit](http://replit.com/). Here are the repositories:
 
 Status|Module|Repository|Note
 ------|------|----------|-----
@@ -31,7 +36,7 @@ Done | [Url Shortner Microservice](https://www.freecodecamp.org/learn/back-end-d
 Done | [Exercise Tracker](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker) | [boilerplate-project-exercisetracker](https://github.com/pjonatansr/boilerplate-project-exercisetracker)| *Clean Architecture Based*
 Done | [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice) | [boilerplate-project-filemetadata](https://github.com/pjonatansr/boilerplate-project-filemetadata)|-
 
-## Main Objective
+## 1st Main Objective - Events/Broker
 (Not working on it now)
 I will do two basic NodeJS APIs and connect each to a different database, with the intention of reaching the architecture below.
 Then I will decide which message broker I want to focus on.
@@ -39,9 +44,7 @@ And then I will start the next.js client development.
 
 <img src="https://github.com/pjonatansr/personal-roadmap/blob/f7fd92717e89a52092765dbc0125651bcb1c29f8/images/draft.png?raw=true" width=50% height=50%>
 
-BTW, for now I'll just easy, step-by-step, the first focus will be on the first API, “Article-Writer-API” with Node, Koa and MongoDB.
-
-
+*Note: I started at the “Article-Writer-API” with NodeJS, Koa and MongoDB but stopped it because I think I need to reinforce some knowledge before.*
 
 ---
 ![image](https://img.shields.io/twitter/follow/pjonatansr?color=green&style=flat-square)
