@@ -14,7 +14,6 @@ I will publish here all my progress, starting from a basic and rustic code to im
 
 ## Current Learning - Blockchain
 ##### Started: Jan 04 2022 - Doing
----
 Status | Course | Link | Repository
 -------|--------|------|--------
 Doing  | Blockchain Course | [Udemy](https://www.udemy.com/course/formacao-engenheiro-de-blockchain/) |  [blockchain_course](https://github.com/pjonatansr/blockchain_course)
