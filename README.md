@@ -46,4 +46,4 @@ And then I will start the next.js client development.
 *Note: I started at the “Article-Writer-API” with NodeJS, Koa and MongoDB but stopped it because I think I need to reinforce some knowledge before.*
 
 ---
-![image](https://img.shields.io/twitter/follow/pjonatansr?color=green&style=flat-square)
+[![image](https://img.shields.io/twitter/follow/pjonatansr?color=green&style=flat-square)](https://twitter.com/pjonatansr)
