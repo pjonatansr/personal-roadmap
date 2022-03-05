@@ -12,8 +12,14 @@ I will publish here all my progress, starting from a basic and rustic code to im
 
 ## 2022 - Articles
 Language|Title/Url|Tags
---------|-----|---
+--------|---------|----
 pt-BR | [Como a comunidade brasileira utiliza o twitter para aprender em público](https://dev.to/pjonatansr/como-a-comunidade-brasileira-utiliza-o-twitter-para-aprender-em-publico-345b)| LearnInPublic, cc @sseraphini, sseraphini.cc, Twitter
+
+## 2022 - Continous Practice
+Site|Profile|Tech
+----|-------|----
+Exercism|https://exercism.org/profiles/pjonatansr|Javascript, Rust
+HackerRank|https://www.hackerrank.com/this_pablo|Algorithm
 
 ## 2022 - Repositories
 Status|Source|Repository|Tech
@@ -30,17 +36,6 @@ Done | [Timestamp Microservice](https://www.freecodecamp.org/learn/back-end-deve
 Done | [MongoDB and Mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose) | [boilerplate-mongomongoose](https://github.com/pjonatansr/boilerplate-mongomongoose)|NodeJs, MongoDB, Express
 Done | [Basic Node and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express) | [boilerplate-express](https://github.com/pjonatansr/boilerplate-express)|NodeJs, Express
 Done | [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/#managing-packages-with-npm) | [boilerplate-npm](https://github.com/pjonatansr/boilerplate-npm)|NodeJs
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 [![image](https://img.shields.io/twitter/follow/pjonatansr?color=green&style=flat-square)](https://twitter.com/pjonatansr)
