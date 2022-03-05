@@ -18,8 +18,8 @@ pt-BR | [Como a comunidade brasileira utiliza o twitter para aprender em públic
 ## 2022 - Repositories
 Status|Source|Repository|Tech
 ------|------|----------|----
-Doing| Free Practice | [Algorithms](https://github.com/pjonatansr/algorithm-practice) | Javascript, Typescript
-Done | Challenge | [Coop-poll-App](https://github.com/pjonatansr/poll-app) | Java, Spring boot, Maven, JPA, Postgres, SpringDoc, Quartz, Modelmapper, Heroku
+Doing| Free Practice | [algorithm-practice](https://github.com/pjonatansr/algorithm-practice) | Javascript, Typescript
+Done | Challenge | [poll-app](https://github.com/pjonatansr/poll-app) | Java, Spring boot, Maven, JPA, Postgres, SpringDoc, Quartz, Modelmapper, Heroku
 Abandoned|[Blockchain course udemy](https://www.udemy.com/course/formacao-engenheiro-de-blockchain/)|[blockchain_course](https://github.com/pjonatansr/blockchain_course)|Python
 Stopped | Free Practice | [a-mail-template-service](https://github.com/pjonatansr/a-mail-template-service)|NodeJs, MongoDB, Express, Typescript
 Done | [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice) | [boilerplate-project-filemetadata](https://github.com/pjonatansr/boilerplate-project-filemetadata)|NodeJs, MongoDB, Express
