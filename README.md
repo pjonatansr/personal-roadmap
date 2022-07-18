@@ -26,7 +26,7 @@ CodeWars|https://www.codewars.com/users/pjonatansr/completed|TypeScript/Algorith
 Status|Source|Repository|Tech
 ------|------|----------|----
 Doing|4fun|[pjonatan.dev](https://github.com/pjonatansr/pjonatan.dev)|My homepage [pjonatan.dev](https://pjonatan.dev)
-Stopped|4Fun|[a-game](https://github.com/pjonatansr/a-game)|Using kaboomjs to practice javascript with [@rayanavital](https://github.com/RayanaVital)
+Stopped|4fun|[a-game](https://github.com/pjonatansr/a-game)|Using kaboomjs to practice javascript with [@rayanavital](https://github.com/RayanaVital)
 Doing| Free Practice | [algorithm-practice](https://github.com/pjonatansr/algorithm-practice) | Javascript, Typescript
 Done | Challenge | [poll-app](https://github.com/pjonatansr/poll-app) | Java, Spring boot, Maven, JPA, Postgres, SpringDoc, Quartz, Modelmapper, Heroku
 Abandoned|[Blockchain course udemy](https://www.udemy.com/course/formacao-engenheiro-de-blockchain/)|[blockchain_course](https://github.com/pjonatansr/blockchain_course)|Python
