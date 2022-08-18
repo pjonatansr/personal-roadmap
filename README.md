@@ -43,6 +43,7 @@ Done | [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-
 ## 2022 - Open Source
 Status|Repo|PR|Description
 ------|----|--|-----------
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#977](https://github.com/sibelius/ccsseraphini/pull/977)| fix(setupFiles): added enviroment vars to process.env to fix tests 
 Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#975](https://github.com/sibelius/ccsseraphini/pull/975)| Feat ranking stats 
 Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#959](https://github.com/sibelius/ccsseraphini/pull/959)| Feat improve ranking 
 Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#954](https://github.com/sibelius/ccsseraphini/pull/954)| Feat/daily-ranking 
