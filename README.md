@@ -3,19 +3,15 @@
 ![image](https://img.shields.io/github/last-commit/pjonatansr/personal-roadmap?logo=github&logoColor=gold&style=flat-square)
 
 ## Introduction
-This repository is just for studying purposes. Some concepts may be new for me, therefore, if you're here for some content I must say that you shouldn't use this repository as your unique source of knowledge. 
-If do you have doubts about the content which is covered here or know something that can improve anything here, please let me know.
-
-Every time that I want to study a new content, being about soft or hard skills, I will propose me to generate an asset, that can be an article or code. This is because I want to store here my new acquired knowledge, that way I can improve my code skills, build a portfolio and share it back to the community. 
-
-I will publish here all my progress, starting from a basic and rustic code to improve over 2022, according to my studies.
+I will publish here my progress over 2022, according to my studies.
 
 ## 2022 - Articles
 Language|Title/Url|Tags
 --------|---------|----
 pt-BR | [Como a comunidade brasileira utiliza o twitter para aprender em público](https://dev.to/pjonatansr/como-a-comunidade-brasileira-utiliza-o-twitter-para-aprender-em-publico-345b)| LearnInPublic, cc @sseraphini, sseraphini.cc, Twitter
+pt-BR | [Garantindo a idempotência de eventos com Redis](https://dev.to/pjonatansr/garantindo-a-idempotencia-de-eventos-com-redis-1opa)|webdev, architecture, cache
 
-## 2022 - Continous Practice
+## 2022 - Continuous Practice
 Site|Profile|Tech
 ----|-------|----
 Exercism|https://exercism.org/profiles/pjonatansr|Javascript, Rust
@@ -26,6 +22,8 @@ CodeWars|https://www.codewars.com/users/pjonatansr/completed|TypeScript/Algorith
 Status|Source|Repository|Tech
 ------|------|----------|----
 Doing|4fun|[pjonatan.dev](https://github.com/pjonatansr/pjonatan.dev)|My homepage [pjonatan.dev](https://pjonatan.dev)
+Done |POC/4fun|[unfollow-someone-followers](https://github.com/pjonatansr/unfollow-someone-followers)|Proof of concept that help you to unfollow the followers of some twitter user
+Done |4fun|[private-top-servers](https://github.com/pjonatansr/private-top-servers)| responsive outline for private servers ranking site   
 Stopped|4fun|[a-game](https://github.com/pjonatansr/a-game)|Using kaboomjs to practice javascript with [@rayanavital](https://github.com/RayanaVital)
 Doing| Free Practice | [algorithm-practice](https://github.com/pjonatansr/algorithm-practice) | Javascript, Typescript
 Done | Challenge | [poll-app](https://github.com/pjonatansr/poll-app) | Java, Spring boot, Maven, JPA, Postgres, SpringDoc, Quartz, Modelmapper, Heroku
@@ -43,6 +41,9 @@ Done | [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-
 ## 2022 - Open Source
 Status|Repo|PR|Description
 ------|----|--|-----------
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1027](https://github.com/sibelius/ccsseraphini/pull/1027)|feat: added retry to tweet stream 
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1007](https://github.com/sibelius/ccsseraphini/pull/1007)|chore: improve process tweet 
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1002](https://github.com/sibelius/ccsseraphini/pull/1002)|feat: added monthly, biweekly and weekly ranking 
 Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#977](https://github.com/sibelius/ccsseraphini/pull/977)| fix(setupFiles): added enviroment vars to process.env to fix tests 
 Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#975](https://github.com/sibelius/ccsseraphini/pull/975)| Feat ranking stats 
 Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#959](https://github.com/sibelius/ccsseraphini/pull/959)| Feat improve ranking 
