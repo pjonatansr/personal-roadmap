@@ -19,8 +19,9 @@ HackerRank|https://www.hackerrank.com/this_pablo|Algorithm
 CodeWars|https://www.codewars.com/users/pjonatansr/completed|TypeScript/Algorithm
 
 ## 2022 - Repositories
-Status|Source|Repository|Tech
+Status|Source|Repository|Note
 ------|------|----------|----
+Done|Challenge/4fun|[2fa-example](https://github.com/pjonatansr/2fa-example)|NextJs
 Doing|4fun|[pjonatan.dev](https://github.com/pjonatansr/pjonatan.dev)|My homepage [pjonatan.dev](https://pjonatan.dev)
 Done |POC/4fun|[unfollow-someone-followers](https://github.com/pjonatansr/unfollow-someone-followers)|Proof of concept that help you to unfollow the followers of some twitter user
 Done |4fun|[private-top-servers](https://github.com/pjonatansr/private-top-servers)| responsive outline for private servers ranking site   
@@ -41,6 +42,12 @@ Done | [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-
 ## 2022 - Open Source
 Status|Repo|PR|Description
 ------|----|--|-----------
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1318](https://github.com/sibelius/ccsseraphini/pull/1318)|Feat/create ranking workspace 
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1274](https://github.com/sibelius/ccsseraphini/pull/1274)|Refactor/add luxon 
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1268](https://github.com/sibelius/ccsseraphini/pull/1268)|fix(tweetRanking): 🚑 fixed tweet ranking periods 
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1254](https://github.com/sibelius/ccsseraphini/pull/1254)|feat(tweetRanking): ✨ added new twitter credentials for ranking 
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1253](https://github.com/sibelius/ccsseraphini/pull/1253)|fix(tweetRanking): 🐛 change timezone to use america/sp 
+Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1250](https://github.com/sibelius/ccsseraphini/pull/1250)|test(tweetRanking): ✅ fixed dates from sync ranked tweet test 
 Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1027](https://github.com/sibelius/ccsseraphini/pull/1027)|feat: added retry to tweet stream 
 Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1007](https://github.com/sibelius/ccsseraphini/pull/1007)|chore: improve process tweet 
 Merged|[ccsseraphini](https://github.com/sibelius/ccsseraphini)|[#1002](https://github.com/sibelius/ccsseraphini/pull/1002)|feat: added monthly, biweekly and weekly ranking 
